@@ -1,1 +1,1 @@
-# data512_finalproject
+### Data 512 - Final Project - Analyzing Earthquake Data 
