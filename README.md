@@ -22,7 +22,9 @@ Additional details can be found at the link below <br>
 
 All the code and analysis performed in here is intended to be fully reproducible. <br>
 To clone this repository use the command <br>
- > git clone https://github.com/Gmoog/data512_finalproject.git <br>
+ > git clone https://github.com/Gmoog/data512_finalproject.git
+
+
 In case you would rather not clone the entire repository, the data can be downloaded in a tab separated file, and can be imported into excel or python for analysis. <br>
 The data can be downloaded from the link below <br>
 [National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA](http://dx.doi.org/10.7289/V5TD9V7K)
