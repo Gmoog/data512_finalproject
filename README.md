@@ -1,4 +1,4 @@
-# Data 512 A-6 Analyzing earthquake data
+# Data 512 A-6 Final Project - Predicting Earthquakes
 
 ### Abstract
 
@@ -57,7 +57,9 @@ The fields that are key from the perspective of our analysis are detailed in the
 
 
 
-The data can be downloaded in a tab separated file, and can be imported into excel or python for analysis.
+The data can be downloaded in a tab separated file, and can be imported into excel or python for analysis.<br>
+All the data used in this analysis can be found in the file 'earthquake_historical.tsv' <br>
+
 For more information about the data and downloading it, please access the link below <br>
 [National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA](http://dx.doi.org/10.7289/V5TD9V7K)
 
