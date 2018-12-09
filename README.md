@@ -22,7 +22,7 @@ Additional details can be found at the link below <br>
 
 All the code and analysis performed in here is intended to be fully reproducible. <br>
 To clone this repository use the command <br>
-git clone https://github.com/Gmoog/data512_finalproject.git <br>
+ > git clone https://github.com/Gmoog/data512_finalproject.git <br>
 In case you would rather not clone the entire repository, the data can be downloaded in a tab separated file, and can be imported into excel or python for analysis. <br>
 The data can be downloaded from the link below <br>
 [National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA](http://dx.doi.org/10.7289/V5TD9V7K)
@@ -60,10 +60,6 @@ For more information about the data and downloading it, please access the link b
 [National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA](http://dx.doi.org/10.7289/V5TD9V7K)
 
 
-__Concerns__
-
-The data needs to be cleaned before it can be used for analysis. Many of the fields have data missing, especially from the earlier years, and hence makes no sense to include. Initial number of data points are around 6000, and if we lose too much data after cleaning, it would be hard to develop an accurate model.
-
 __License__
 
 The data is hosted on a public information website, and can be freely distributed and copied, with the appropriate credits.
@@ -85,7 +81,9 @@ I list out all the python packages used in the analysis below <br>
 - Pandas <br>
 - Matplotlib <br>
 - Basemap <br>
+
 The different algorithms tested on the data are part of the Scikit Learn python package <br>
+
 - Linear Regression <br>
 - Decision tree <br>
 - Random forest <br>
